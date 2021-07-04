@@ -1,18 +1,19 @@
-h1 {
-    color: blueviolet;
-    text-align: center;
+div {
+    background-color: #ed9eae;
+    color:  white;
+    font-family: sans-serif;
 }
-h2 {
-    color: darkgray;
+ul {
+    padding: 1%;
+    list-style: none;
 }
-h3 {
-    color: darkgray;
+li {
+    background-color: #c66376;
+    padding: 1%;
+    margin: 10px;
 }
-body {
-    background-color: cornsilk;
-    padding: 0 10% 0 10%;
-}
-.textBox {
-    display: grid;
-    grid-auto-columns: 350px;
+mark {
+    background-color: #9e354a;
+    color: white;
+    padding: inherit;
 }
