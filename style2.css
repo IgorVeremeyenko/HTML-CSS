@@ -1,0 +1,44 @@
+p.two::after{content: '\2663';}
+p.nine::after{content: '\2665';}
+p.six::after{content: '\2665';}
+p.A::after{content: '\2666';}
+p.Q::after{content: '\2660';}
+p.J::after{content: '\2663';}
+p.three::after{content: '\2665';}
+p.A2::after{content: '\2663';}
+p.ten::after{content: '\2663';}
+p.K::after{content: '\2666';}
+p.eight::after{content: '\2660';}
+p.three_::after{content: '\2665';}
+.container {
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+}
+body {
+    padding: 10% 10% 10% 30%;
+    background-color: darkolivegreen;
+}
+p {
+    background-color: #d8d8d4;
+    padding: 10px;
+    margin-left: 10px;
+}
+p.nine {
+    color: #9e1d1d;
+}
+p.six {
+    color: #9e1d1d;
+}
+p.A {
+    color: #9e1d1d;
+}
+p.three {
+    color: #9e1d1d;
+}
+p.K {
+    color: #9e1d1d;
+}
+p.three_ {
+    color: #9e1d1d;
+}
